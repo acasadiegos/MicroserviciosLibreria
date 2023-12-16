@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db3c960c-54fb-45d7-8d6c-7415ca365ee7": {
+      "ProjectGuid": "db3c960c-54fb-45d7-8d6c-7415ca365ee7",
+      "DisplayName": "TiendaServicios",
+      "ColorIndex": 0
+    },
+    "0b09fd7d-8c87-4bc1-9749-75f4246a0bff": {
+      "ProjectGuid": "0b09fd7d-8c87-4bc1-9749-75f4246a0bff",
+      "DisplayName": "TiendaServicios.api.Autor",
+      "ColorIndex": 1
+    },
+    "9452cf5b-0c80-4377-9408-02728f9c5ec8": {
+      "ProjectGuid": "9452cf5b-0c80-4377-9408-02728f9c5ec8",
+      "DisplayName": "TiendaServicios.api.Autores",
+      "ColorIndex": 2
+    },
+    "f0536d9b-a315-4f20-b99b-0aaf3350700e": {
+      "ProjectGuid": "f0536d9b-a315-4f20-b99b-0aaf3350700e",
+      "DisplayName": "Imagenes",
+      "ColorIndex": 3
+    },
+    "285b5b8c-d793-4264-bea5-15dcf471644b": {
+      "ProjectGuid": "285b5b8c-d793-4264-bea5-15dcf471644b",
+      "DisplayName": "TiendaServicios.Api.Libro",
+      "ColorIndex": 4
+    },
+    "c6887491-1dd7-4b28-bc43-3994b1a75645": {
+      "ProjectGuid": "c6887491-1dd7-4b28-bc43-3994b1a75645",
+      "DisplayName": "TiendaServicios.Api.CarritoCompra",
+      "ColorIndex": 5
+    },
+    "214be23d-ed79-491a-9028-0de06a4e7c16": {
+      "ProjectGuid": "214be23d-ed79-491a-9028-0de06a4e7c16",
+      "DisplayName": "TiendaServicios.Api.Libro.Tests",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
